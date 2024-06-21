@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 Project Structure
 Finding Unusual Patterns in Hourly Google Search Traffic
 
