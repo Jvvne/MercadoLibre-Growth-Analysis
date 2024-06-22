@@ -15,3 +15,5 @@ This project analyzes Google Search traffic data and its relationship with Merca
    git clone https://github.com/your-username/your-repository.git
 Conclusion
 Using Google Search traffic data can help predict stock price movements and optimize marketing strategies for MercadoLibre. The Prophet model offers valuable insights into future trends, aiding in data-driven decision-making.
+..
+...
