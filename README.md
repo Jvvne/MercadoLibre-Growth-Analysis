@@ -1,4 +1,4 @@
-
+.
 
 <img width="809" alt="Screenshot 2024-06-20 at 10 35 06 PM" src="https://github.com/Jvvne/MercadoLibre-Growth-Analysis/assets/148028363/b7d664d9-6857-42ad-b43c-fe4399ae9612">
 
